@@ -1,0 +1,4 @@
+git remote add origin https://github.com/cretiulewna/This-one-better-demo-3.git
+git branch -M main
+git push -u origin main
+SO here i am in this fkced workls
